@@ -1,2 +1,2 @@
 # ML_AlgorithmsFromScratch
-Implementing core ML algorithms from scratch.
+Implementing core ML algorithms from scratch. 
