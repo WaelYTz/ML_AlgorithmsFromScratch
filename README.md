@@ -10,12 +10,8 @@ This repository currently includes implementations of linear regression and logi
 
 - **Linear Regression**: Implemented using gradient descent to minimize the cost function for regression tasks.
 - **Logistic Regression**: A binary classification algorithm using sigmoid activation and cross-entropy loss.
-
-## Project Structure
-
-- **/algorithms**: Contains implementations of each algorithm.
-- **/datasets**: Sample datasets used to test the algorithms.
-- **/notebooks**: Jupyter notebooks to explore each algorithm interactively.
+- **Decision Tree**: Splits data using feature-based rules to form a tree for classification or regression.
+- **Random Forest**: Combines many decision trees trained on random data subsets to improve accuracy and reduce overfitting.
 
 ## Getting Started
 
