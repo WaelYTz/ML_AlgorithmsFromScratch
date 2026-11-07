@@ -1,5 +1,13 @@
 # Machine Learning Algorithms from Scratch
 
+<p>
+  <img alt="top language" src="https://img.shields.io/github/languages/top/WaelYTz/ML_AlgorithmsFromScratch?style=flat-square">
+  <img alt="last commit" src="https://img.shields.io/github/last-commit/WaelYTz/ML_AlgorithmsFromScratch?style=flat-square">
+  <img alt="repo size" src="https://img.shields.io/github/repo-size/WaelYTz/ML_AlgorithmsFromScratch?style=flat-square">
+  <img alt="license" src="https://img.shields.io/github/license/WaelYTz/ML_AlgorithmsFromScratch?style=flat-square">
+</p>
+
+
 Welcome to my **Machine Learning Algorithms from Scratch** repository! This project contains foundational machine learning algorithms implemented in Python, focusing on building these models from the ground up to better understand their mechanics.
 
 ## Project Overview
